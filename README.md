@@ -66,11 +66,13 @@ This repository is about some key-note when i learn nodeJS. Begin from node low-
 * [Encryption and decryption in Nodejs - @Lollyrock](http://lollyrock.com/articles/nodejs-encryption/)
 * [Node Tuts - Node.JS Video Tutorials (screencast)](http://nodetuts.com/)
 * [Node book](https://github.com/Pana/node-books)
-* [Node Cool](https://github.com/sindresorhus/awesome-nodejs)
+* [Node cool](https://github.com/sindresorhus/awesome-nodejs)
 
 ## NodeJS Vietnamese :notebook_with_decorative_cover: :notebook_with_decorative_cover: :notebook_with_decorative_cover:
+* [Nodejs artchitecture p1- @bkfateam](https://www.facebook.com/notes/bkfa-team/nodejs-architecture-concept-p1/322131021648618/)
+* [Nodejs artchitecture p2 - @bkfateam](https://www.facebook.com/notes/bkfa-team/nodejs-architecture-concept-p2/323275331534187/)
 * [Tài liệu nodejs-core tiếng việt](https://drive.google.com/open?id=1WMihN6Bw6OtClI1KnEAacBXf4Ca6JcxA) 
-* [Render ảnh với stream](https://nodeplusplus.com/2018/03/31/render-anh-voi-stream/)
+* [Render ảnh với stream- @node++](https://nodeplusplus.com/2018/03/31/render-anh-voi-stream/)
 * [NodeJS là gi - Bài viết khá sâu - @SotaTek](https://sotatek.com/blog/nodejs-la-gi/)
 * [NodeJS – Hiểu Asynchronous Event-Driven Nonblocking I/O - @SotaTek](https://sotatek.com/blog/nodejs-hieu-asynchronous-event-drivent-nonblocking-io/)
 * [Chuyển sang lập trình Node.js - JavaScript - @Techmaster](https://techmaster.vn/posts/26304/hoc-lap-trinh-nodejs-javascript)
