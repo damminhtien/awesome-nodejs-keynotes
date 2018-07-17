@@ -1,9 +1,10 @@
 # NodeJS Key Note :sparkles: :sparkles: :sparkles:
-This repository is about some key-note when i learn nodeJS. Begin from node low-artchiture to node-framework, node-module.
+This repository is about some key-note when i learn nodeJS. Begin from node low-artchiture to node-module, node-framework.
 
 ## NodeJS Core :heartpulse: :heartpulse: :heartpulse:
 * [Node documents v8.1](https://nodejs.org/dist/latest-v8.x/docs/api/) (lastest LTS): Everything you need to known.
-* [V8 engine](https://github.com/v8/v8/wiki/Introduction): NodeJS was build at top V8 engine.
+* [V8 engine](https://github.com/v8/v8/wiki/Introduction): NodeJS was build at top V8 engine. Read more:  [[1]](https://blog.sessionstack.com/how-javascript-works-inside-the-v8-engine-5-tips-on-how-to-write-optimized-code-ac089e62b12e), 
+* [Event Loop](https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/): Event Loop is heart of NodeJS. Read more: [[1]](https://medium.com/the-node-js-collection/what-you-should-know-to-really-understand-the-node-js-event-loop-and-its-metrics-c4907b19da4c), [[2]](https://blog.risingstack.com/node-js-at-scale-understanding-node-js-event-loop/)
 
 ## NodeJS Framework :rocket: :rocket: :rocket:
 * [Express.js](https://expressjs.com): <span style="text-align:justify">**fast, unopinionated, minimalist web framework for Node.js. The most popular framework Nodejs**. This is a minimal framework for building a variety of web and mobile applications as well as application programming interfaces (APIs). Many popular applications and sites like MySpace, Geekli.st, Klout, Segment.io and Yummly are built by express. Express provides various features, such as simplifying multiple routing, database integration, etc ... </span>
@@ -21,32 +22,44 @@ This repository is about some key-note when i learn nodeJS. Begin from node low-
 * **More**: [Popular fw and category](http://nodeframework.com/), [Top 10 fw 2018](https://da-14.com/blog/10-best-nodejs-frameworks)
  
 ## NodeJS Interesting Module :seedling: :seedling: :seedling:
-* [Body-parser](https://github.com/expressjs/body-parser): Node.js body parsing middleware.
-* [Multer](https://github.com/expressjs/multer): Node.js middleware for handling `multipart/form-data`. 
-* [Passport JS](http://www.passportjs.org/): Simple, unobtrusive authentication for Node.js
+* [body-parser](https://github.com/expressjs/body-parser): Node.js body parsing middleware.
+* [multer](https://github.com/expressjs/multer): Node.js middleware for handling `multipart/form-data`. 
+* [passport.js](http://www.passportjs.org/): Simple, unobtrusive authentication for Node.js
 * [pg](https://node-postgres.com/): a collection of node.js modules for interfacing with your PostgreSQL database, support for callbacks, promises, async/await, connection pooling, prepared statements, cursors, streaming results, C/C++ bindings, rich type parsing, and more!
 * [express-promise-router](https://github.com/express-promise-router/express-promise-router): A lightweight wrapper for Express 4's Router that allows middleware to return promises
 * [proxymise](https://github.com/kozhevnikov/proxymise): **Chainable Promise Proxy**. Lightweight ES6 Proxy for Promises with no additional dependencies. Proxymise allows for method and property chaining without need for intermediate then() or await for cleaner and simpler code.
+* [likely.js](https://github.com/sbyrnes/likely.js): A javascript library for collaborative filtering and recommendation engines designed for node.js
+* [ethereum/web3.js](https://github.com/ethereum/web3.js): Ethereum JavaScript API
+* [tensorflow/tfjs-node](https://github.com/tensorflow/tfjs-node): A JavaScript library for training and deploying ML models https://js.tensorflow.org
 
 ## NodeJS Preformance :chart_with_upwards_trend: :chart_with_upwards_trend: :chart_with_upwards_trend:
 
 ## NodeJS fullstack :tada: :tada: :tada:
 ### Design :art: :art: :art:
-* Express application generator: https://expressjs.com/en/starter/generator.html
-### View engine :palm_tree: :palm_tree: :palm_tree:
-* EJS: http://ejs.co/#docs
+* [Express application generator](https://expressjs.com/en/starter/generator.html)
+* [Docker node MVC - @bkfa](https://github.com/BKFA/expressMVC)* 
+* [express MVC - @euclid1990](https://github.com/euclid1990/express)*
+
+### Express view engine :palm_tree: :palm_tree: :palm_tree:
+* [ejs](http://ejs.co/#docs): view engine that i like most -> write like pure html.
+* [pug](https://github.com/pugjs/pug): the most popular view engine for nodejs.
+* [hbs](https://github.com/pillarjs/hbs): express view engine wrapper for Handlebars
+* [hjs](https://github.com/nullfirm/hjs): hogan.js NPM package for express 3.x (hjs)
+* [twig](https://github.com/twigjs/twig.js): twig.js is a pure JavaScript implementation of the Twig PHP templating language
+* [vash](https://github.com/kirbysayshi/vash): Vash, the 60 billion double-dollar template-maker. Razor syntax, for JavaScript templates
 
 ## NodeJS Related :zap: :zap: :zap:
 ### NodeJS prerequisite :sunflower: :sunflower: :sunflower:
 * [Blocking and non-blocking](https://nodejs.org/en/docs/guides/blocking-vs-non-blocking/)
-* Front end checklist: https://github.com/damminhtien/Front-End-Checklist
-* Encrypt and decrypt: http://lollyrock.com/articles/nodejs-encryption/
-* JSON: https://www.w3schools.com/js/js_json_intro.asp
-* AJAX: https://www.w3schools.com/js/js_ajax_intro.asp
+* [JSON](https://www.w3schools.com/js/js_json_intro.asp)
+* [AJAX](https://www.w3schools.com/js/js_ajax_intro.asp)
 ### Helpful resources :girl: :girl: :girl:
-* [What exactly is NodeJS](https://medium.freecodecamp.org/what-exactly-is-node-js-ae36e97449f5)
+* [History if Node.js on the timeline - @RisingStack](https://blog.risingstack.com/history-of-node-js)
+* [What exactly is NodeJS? - @FreeCodeCamp](https://medium.freecodecamp.org/what-exactly-is-node-js-ae36e97449f5)
+* [You don't known Node - @SamerBuna](https://edgecoders.com/you-dont-know-node-6515a658a1ed)
+* [Encryption and decryption in Nodejs - @Lollyrock](http://lollyrock.com/articles/nodejs-encryption/)
+* [Node Tuts - Node.JS Video Tutorials (screencast)](http://nodetuts.com/)
 
 ## NodeJS Vietnamese :notebook_with_decorative_cover: :notebook_with_decorative_cover: :notebook_with_decorative_cover:
 * Tài liệu nodejs-core tiếng việt: 
-https://drive.google.com/open…
-* Render ảnh: https://nodeplusplus.com/2018/03/31/render-anh-voi-stream/
+* [Render ảnh với stream](https://nodeplusplus.com/2018/03/31/render-anh-voi-stream/)
