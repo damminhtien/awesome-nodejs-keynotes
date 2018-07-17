@@ -59,6 +59,8 @@ This repository is about some key-note when i learn nodeJS. Begin from node low-
 * [You don't known Node - @SamerBuna](https://edgecoders.com/you-dont-know-node-6515a658a1ed)
 * [Encryption and decryption in Nodejs - @Lollyrock](http://lollyrock.com/articles/nodejs-encryption/)
 * [Node Tuts - Node.JS Video Tutorials (screencast)](http://nodetuts.com/)
+* [Node book](https://github.com/Pana/node-books)
+* [Node Cool](https://github.com/sindresorhus/awesome-nodejs)
 
 ## NodeJS Vietnamese :notebook_with_decorative_cover: :notebook_with_decorative_cover: :notebook_with_decorative_cover:
 * Tài liệu nodejs-core tiếng việt: 
