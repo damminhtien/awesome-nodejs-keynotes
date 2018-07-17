@@ -30,7 +30,9 @@ This repository is about some key-note when i learn nodeJS. Begin from node low-
 * [proxymise](https://github.com/kozhevnikov/proxymise): **Chainable Promise Proxy**. Lightweight ES6 Proxy for Promises with no additional dependencies. Proxymise allows for method and property chaining without need for intermediate then() or await for cleaner and simpler code.
 * [likely.js](https://github.com/sbyrnes/likely.js): A javascript library for collaborative filtering and recommendation engines designed for node.js
 * [ethereum/web3.js](https://github.com/ethereum/web3.js): Ethereum JavaScript API
-* [tensorflow/tfjs-node](https://github.com/tensorflow/tfjs-node): A JavaScript library for training and deploying ML models https://js.tensorflow.org
+* [tensorflow/tfjs-node](https://github.com/tensorflow/tfjs-node): A JavaScript library for training and deploying ML models https://js.tensorflow.org 
+* [nodemon](https://github.com/remy/nodemon): Monitor for any changes in your node.js application and automatically restart the server - perfect for development http://nodemon.io/
+* [mongoose](http://mongoosejs.com/): elegant mongodb object modeling for node.js
 
 ## NodeJS Preformance :chart_with_upwards_trend: :chart_with_upwards_trend: :chart_with_upwards_trend:
 
@@ -53,6 +55,10 @@ This repository is about some key-note when i learn nodeJS. Begin from node low-
 * [Blocking and non-blocking](https://nodejs.org/en/docs/guides/blocking-vs-non-blocking/)
 * [JSON](https://www.w3schools.com/js/js_json_intro.asp)
 * [AJAX](https://www.w3schools.com/js/js_ajax_intro.asp)
+### Docker Nodejs
+* [Offical docker node](https://github.com/nodejs/docker-node)
+* [Dockerising a Node.js and MongoDB App](https://medium.com/statuscode/dockerising-a-node-js-and-mongodb-app-d22047e2806f)
+* [Docker node example](https://github.com/b00giZm/docker-compose-nodejs-examples)
 ### Helpful resources :girl: :girl: :girl:
 * [History if Node.js on the timeline - @RisingStack](https://blog.risingstack.com/history-of-node-js)
 * [What exactly is NodeJS? - @FreeCodeCamp](https://medium.freecodecamp.org/what-exactly-is-node-js-ae36e97449f5)
@@ -63,5 +69,10 @@ This repository is about some key-note when i learn nodeJS. Begin from node low-
 * [Node Cool](https://github.com/sindresorhus/awesome-nodejs)
 
 ## NodeJS Vietnamese :notebook_with_decorative_cover: :notebook_with_decorative_cover: :notebook_with_decorative_cover:
-* Tài liệu nodejs-core tiếng việt: 
+* [Tài liệu nodejs-core tiếng việt](https://drive.google.com/open?id=1WMihN6Bw6OtClI1KnEAacBXf4Ca6JcxA) 
 * [Render ảnh với stream](https://nodeplusplus.com/2018/03/31/render-anh-voi-stream/)
+* [NodeJS là gi - Bài viết khá sâu - @SotaTek](https://sotatek.com/blog/nodejs-la-gi/)
+* [NodeJS – Hiểu Asynchronous Event-Driven Nonblocking I/O - @SotaTek](https://sotatek.com/blog/nodejs-hieu-asynchronous-event-drivent-nonblocking-io/)
+* [Chuyển sang lập trình Node.js - JavaScript - @Techmaster](https://techmaster.vn/posts/26304/hoc-lap-trinh-nodejs-javascript)
+* [Tại sao bạn nên học Node.js? - @Techmaster](https://techmaster.vn/posts/34075/tai-sao-ban-nen-hoc-nodejs)
+* [Node JS Architecture – Single Threaded Event Loop](https://viblo.asia/p/node-js-architecture-single-threaded-event-loop-Qbq5Qg4XZD8)
