@@ -68,6 +68,7 @@ This repository is about some key-note when i learn nodeJS. Begin from node low-
 * [Node book](https://github.com/Pana/node-books)
 * [Node cool](https://github.com/sindresorhus/awesome-nodejs)
 * [We're under attack 23 node security best practice](https://medium.com/@nodepractices/were-under-attack-23-node-js-security-best-practices-e33c146cb87d)
+* [6 nodejs best practice](https://github.com/i0natan/nodebestpractices#6-security-best-practices)
 
 ## NodeJS Vietnamese :notebook_with_decorative_cover: :notebook_with_decorative_cover: :notebook_with_decorative_cover:
 * [Nodejs artchitecture p1- @bkfateam](https://www.facebook.com/notes/bkfa-team/nodejs-architecture-concept-p1/322131021648618/)
