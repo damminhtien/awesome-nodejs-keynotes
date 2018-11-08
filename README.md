@@ -74,6 +74,7 @@ This repository is about some key-note when i learn nodeJS. Begin from node low-
 ## NodeJS Vietnamese :notebook_with_decorative_cover: :notebook_with_decorative_cover: :notebook_with_decorative_cover:
 * [Nodejs artchitecture p1- @bkfateam](https://www.facebook.com/notes/bkfa-team/nodejs-architecture-concept-p1/322131021648618/)
 * [Nodejs artchitecture p2 - @bkfateam](https://www.facebook.com/notes/bkfa-team/nodejs-architecture-concept-p2/323275331534187/)
+* [Các trình thông dịch javascript và V8 engine - @bkfateam](https://www.facebook.com/notes/bkfa-team/c%C3%A1c-tr%C3%ACnh-th%C3%B4ng-d%E1%BB%8Bch-javascript-v%C3%A0-v8-engine-t%C3%ACm-hi%E1%BB%83u-v%C3%A0-%E1%BB%A9ng-d%E1%BB%A5ng-v%C3%A0o-vi%E1%BB%87c-t%E1%BB%91i-%C6%B0/380847369110316/)
 * [Tài liệu nodejs-core tiếng việt](https://drive.google.com/open?id=1WMihN6Bw6OtClI1KnEAacBXf4Ca6JcxA) 
 * [Render ảnh với stream- @node++](https://nodeplusplus.com/2018/03/31/render-anh-voi-stream/)
 * [NodeJS là gi - Bài viết khá sâu - @SotaTek](https://sotatek.com/blog/nodejs-la-gi/)
