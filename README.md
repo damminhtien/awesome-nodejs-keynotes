@@ -1,4 +1,4 @@
-# NodeJS Key Note :sparkles: :sparkles: :sparkles:
+# Awesome NodeJS key notes :sparkles: :sparkles: :sparkles:
 This repository is about some key-note when i learn nodeJS. Begin from node low-artchiture to node-module, node-framework.
 
 ## NodeJS Core :heartpulse: :heartpulse: :heartpulse:
