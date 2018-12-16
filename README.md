@@ -37,7 +37,7 @@ This repository is about some key-note when i learn nodeJS. Begin from node low-
 ## NodeJS Preformance :chart_with_upwards_trend: :chart_with_upwards_trend: :chart_with_upwards_trend:
 
 ## NodeJS fullstack :tada: :tada: :tada:
-### Design :art: :art: :art:
+### Design Pattern :art: :art: :art:
 * [Express application generator](https://expressjs.com/en/starter/generator.html)
 * [Docker node MVC - @bkfa](https://github.com/BKFA/expressMVC)* 
 * [express MVC - @euclid1990](https://github.com/euclid1990/express)*
