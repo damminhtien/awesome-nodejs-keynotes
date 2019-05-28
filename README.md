@@ -84,3 +84,10 @@ This repository is about some key-note when i learn nodeJS. Begin from node low-
 * [Chuyển sang lập trình Node.js - JavaScript - @Techmaster](https://techmaster.vn/posts/26304/hoc-lap-trinh-nodejs-javascript)
 * [Tại sao bạn nên học Node.js? - @Techmaster](https://techmaster.vn/posts/34075/tai-sao-ban-nen-hoc-nodejs)
 * [Node JS Architecture – Single Threaded Event Loop](https://viblo.asia/p/node-js-architecture-single-threaded-event-loop-Qbq5Qg4XZD8)
+* [Viblo community](https://viblo.asia/search?q=nodejs&s=views)
+
+## Related repo:
+* [Awesome-nodejs @sindresorhus](https://github.com/sindresorhus/awesome-nodejs)
+* [Developer roadmap @aliyr](https://github.com/aliyr/Nodejs-Developer-Roadmap)
+* [Cheatsheets Express 4](https://github.com/azat-co/cheatsheets/tree/master/express4)
+* [Exhaustive checklist to assist in a security review of a Node.js web service code](https://github.com/jesusprubio/strong-node)
