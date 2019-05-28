@@ -4,7 +4,7 @@ This repository is about some key-note when i learn nodeJS. Begin from node low-
 [roadmap](https://github.com/aliyr/Nodejs-Developer-Roadmap)
 ![](https://github.com/aliyr/Nodejs-Developer-Roadmap/raw/master/Node.js-developer-roadmap.png)
 ## NodeJS Core :heartpulse: :heartpulse: :heartpulse:
-* [Node documents v8.1](https://nodejs.org/dist/latest-v8.x/docs/api/) (lastest LTS): Everything you need to known.
+* [Node documents v10.x](https://nodejs.org/dist/latest-v10.x/docs/api/) (lastest LTS): Everything you need to known.
 * [V8 engine](https://github.com/v8/v8/wiki/Introduction): NodeJS was build at top V8 engine. Read more:  [[1]](https://blog.sessionstack.com/how-javascript-works-inside-the-v8-engine-5-tips-on-how-to-write-optimized-code-ac089e62b12e), 
 * [Event Loop](https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/): Event Loop is heart of NodeJS. Read more: [[1]](https://medium.com/the-node-js-collection/what-you-should-know-to-really-understand-the-node-js-event-loop-and-its-metrics-c4907b19da4c), [[2]](https://blog.risingstack.com/node-js-at-scale-understanding-node-js-event-loop/)
 
