@@ -1,6 +1,8 @@
 # Awesome NodeJS key notes :sparkles: :sparkles: :sparkles:
 This repository is about some key-note when i learn nodeJS. Begin from node low-artchiture to node-module, node-framework.
-
+## NodeJS Roadmap 2019:
+[roadmap](https://github.com/aliyr/Nodejs-Developer-Roadmap)
+![](https://github.com/aliyr/Nodejs-Developer-Roadmap/raw/master/Node.js-developer-roadmap.png)
 ## NodeJS Core :heartpulse: :heartpulse: :heartpulse:
 * [Node documents v8.1](https://nodejs.org/dist/latest-v8.x/docs/api/) (lastest LTS): Everything you need to known.
 * [V8 engine](https://github.com/v8/v8/wiki/Introduction): NodeJS was build at top V8 engine. Read more:  [[1]](https://blog.sessionstack.com/how-javascript-works-inside-the-v8-engine-5-tips-on-how-to-write-optimized-code-ac089e62b12e), 
