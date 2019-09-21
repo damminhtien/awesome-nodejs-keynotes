@@ -1,4 +1,5 @@
 # Awesome NodeJS key notes :sparkles: :sparkles: :sparkles:
+Now, time is changing, maintainable and scalable are the most important in system development. NodeJS is the minialist javascript runtime build for web services.
 This repository is about some key-note when i learn nodeJS. Begin from node low-artchiture to node-module, node-framework.
 ## NodeJS Roadmap 2019:
 [roadmap](https://github.com/aliyr/Nodejs-Developer-Roadmap)
