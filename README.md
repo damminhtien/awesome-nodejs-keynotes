@@ -11,17 +11,15 @@ This repository is about some key-note when i learn nodeJS. Begin from node low-
 * [Event Loop](https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/): Event Loop is heart of NodeJS. Read more: [[1]](https://medium.com/the-node-js-collection/what-you-should-know-to-really-understand-the-node-js-event-loop-and-its-metrics-c4907b19da4c), [[2]](https://blog.risingstack.com/node-js-at-scale-understanding-node-js-event-loop/)
 
 ## NodeJS Popular Frameworks :rocket: :rocket: :rocket:
-* [Express.js](https://expressjs.com): <span style="text-align:justify">**fast, unopinionated, minimalist web framework for Node.js. The most popular framework Nodejs**. 
-<a class="github-button" href="https://github.com/ntkme/github-buttons" data-icon="octicon-star" aria-label="Star ntkme/github-buttons on GitHub">Star</a>
- 
- <iframe src="http://ghbtns.com/github-btn.html?user=expressjs&repo=express&type=watch&count=true"
-allowtransparency="true" frameborder="0" scrolling="0" width="110" height="20"></iframe>
+* [Express](https://expressjs.com): <span style="text-align:justify">**fast, unopinionated, minimalist web framework for Node.js. The most popular framework Nodejs**. 
 
-* [Sails.js](https://sailsjs.com): <span style='text-align:justify'> **makes it easy to build custom, enterprise-grade Node.js apps. Realtime framework MVC for NodeJS**.
+* [Sails](https://sailsjs.com): <span style='text-align:justify'> **makes it easy to build custom, enterprise-grade Node.js apps. Realtime framework MVC for NodeJS**.
 
-* [Hapi.js](https://hapijs.com): **a rich framework for building applications and services hapi enables developers to focus on writing reusable application logic instead of spending time building infrastructure**. Hapi.js is a powerful Node.js framework for building application programming interfaces (APIs) and other software applications. This framework has a powerful plugin system and many features, including validate input data, configuration-based functions, caching implementation, error handling, logging and more. 
+* [Hapi](https://hapijs.com): **a rich framework for building applications and services hapi enables developers to focus on writing reusable application logic instead of spending time building infrastructure**. Hapi.js is a powerful Node.js framework for building application programming interfaces (APIs) and other software applications.
 
-* [Fastify](fastify.io): a node.js framework that is designed to be the replacement of express.js with a 65% better performance. See [benchmarks](https://fastify.io/benchmarks/)
+* [Fastify](fastify.io): **a node.js framework that is designed to be the replacement of express.js with a 65% better performance. See [benchmarks](https://fastify.io/benchmarks/)**
+
+* [FeatherJS](https://feathersjs.com/): **a framework for real-time applications and REST APIs**
 
 * **More**: [Popular fw and category](http://nodeframework.com/), [Top 5 fw 2019](https://medium.com/@OPTASY.com/what-are-the-best-node-js-frameworks-in-2019-and-why-top-5-4434770d2187)
  
