@@ -19,8 +19,6 @@ This repository is about some key-note when i learn nodeJS. Begin from node low-
 
 * [Meteor.js](https://www.meteor.com): **an open source platform for web, mobile, and desktop. The fastest way to build javascript app**. Meteor pre-built modules make code writing easier and faster. Moreover, its programming model allows for less JavaScript writing. The popular applications built by Meteor are Dispatch (Software for field service businesses.), Respondly (a collaborative application for the team), Blonk (Mobile search application) and etc...
 
-* [Socket.io](https://socket.io/): **featuring the fastest and most reliable real-time engine**. Socket.io is a framework of Node.js that allows you to build realtime web applications. It allows two-way communication between the client and the server. Socket.io acts as a client-side library running in the browser and as a server-side library for node.js. The framework allows simultaneous real-time execution for collaboration and data exchange. In addition, its main features include asynchronous I / O processing, binary streams, instant messaging, and more.
-
 * **More**: [Popular fw and category](http://nodeframework.com/), [Top 10 fw 2018](https://da-14.com/blog/10-best-nodejs-frameworks)
  
 ## NodeJS Interesting Module :seedling: :seedling: :seedling:
