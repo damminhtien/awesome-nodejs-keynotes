@@ -40,6 +40,7 @@ This repository is about some key-note when i learn nodeJS. Begin from node low-
 
 ## NodeJS fullstack :tada: :tada: :tada:
 ### Design Pattern :art: :art: :art:
+* [:white_check_mark: The Node.js best practices list (December 2020)](https://github.com/goldbergyoni/nodebestpractices)
 * [Express application generator](https://expressjs.com/en/starter/generator.html)
 * [Docker node MVC - @bkfa](https://github.com/BKFA/expressMVC)* 
 * [express MVC - @euclid1990](https://github.com/euclid1990/express)*
